@@ -1,4 +1,12 @@
-Teaching and Mentoring
+---
+layout: archive
+title: "Teaching and Mentoring"
+permalink: /teaching1/
+author_profile: true
+redirect_from:
+  - /teaching.html
+---
+
 * Fall 2022: 2 Guest Lectures in [COMP 580](https://www.cs.rice.edu/~as143/COMP480_580_Fall24/index.html): Probabilistic Algorithms and Datastructures
 * Fall 2023 : ML Efficiency Reading Group Organized research reading group for undergraduate,
 masters and graduate students. ([Github](https://github.com/apd10/RG-Fall-23))
