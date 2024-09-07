@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /publications.html
 ---
+Full list of papers including preprints: [google scholar](https://scholar.google.com/citations?user=ymdbDZwAAAAJ&hl=en)
 
 **A. Desai** and A. Shrivastava, “In defense of parameter sharing for model compression,” in
 The Twelfth International Conference on Learning Representations, 2024.
