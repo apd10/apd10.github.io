@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-Full CV is here (last updated May' 2024) : [CV](https://apd10.github.io/files/CV.pdf)
+Full CV is here (last updated Sep' 2024) : [CV](https://github.com/apd10/apd10.github.io/blob/master/files/CV_09_30_2024.pdf)
