@@ -12,4 +12,9 @@ I am currently at post doctoral researcher at [sky-lab](https://sky.cs.berkeley.
 In a previous life, I used to be strategist at [Tower Research Capital](https://tower-research.com/) where I spent quite some time after graduating from [IIT Kanpur](https://www.cse.iitk.ac.in/) in 2013. At IIT Kanpur, I was fortunate to work with Dr. [Subhajit Roy](https://www.cse.iitk.ac.in/users/subhajit/), Dr. [Mark Marron](https://software.imdea.org/~marron/) and Dr. [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) from Microsoft Research on Progamming Language research.
 
 
+## News
+🤜 Paper accepted at Neurips'24 : "Accelerating Inference with Fast and Expressive Sketch Structured Transform”. Congratulations to the team [Kimia Saedi](https://www.linkedin.com/in/kimia-saedi/), [Apoorv Walia](https://www.linkedin.com/in/apoorv-walia-788b66120/), [Keren Zhou](https://www.jokeren.tech/), [Jihyeong Li](https://www.linkedin.com/in/jihyeonglee98/) and [Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) Details coming soon!
 
+🤝Serving on Program committee for KDD August 2024, ICLR 2024, AISTATS 2025
+
+❕For highlights previous news .. refer to the CV 
