@@ -17,4 +17,4 @@ In a previous life, I used to be strategist at [Tower Research Capital](https://
 
 🤝Serving on Program committee for KDD August 2024, ICLR 2024, AISTATS 2025
 
-❕For highlights previous news .. refer to the CV 
+❕For highlights of previous news .. refer to the CV 
