@@ -13,6 +13,8 @@ In a previous life, I used to be strategist at [Tower Research Capital](https://
 
 
 ## News
+🤜 Paper accepted at KDD'25 : "IDentity with Locality: An Ideal Hash for Gene Sequence Search”. Congratulations to the team [Gaurav Gupta](https://gaurav16gupta.github.io/), [Tianyi Zhang](https://www.linkedin.com/in/tianyi-zhang-441093135/) and [Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) Details coming soon! Heres the [arxiv](https://arxiv.org/abs/2406.14901) version
+
 🤜 Paper accepted at Neurips'24 : "Accelerating Inference with Fast and Expressive Sketch Structured Transform”. Congratulations to the team [Kimia Saedi](https://www.linkedin.com/in/kimia-saedi/), [Apoorv Walia](https://www.linkedin.com/in/apoorv-walia-788b66120/), [Keren Zhou](https://www.jokeren.tech/), [Jihyeong Li](https://www.linkedin.com/in/jihyeonglee98/) and [Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) Details coming soon!
 
 🤝Serving on Program committee for KDD August 2024, ICLR 2024, AISTATS 2025
