@@ -29,4 +29,4 @@ In a previous life, I used to be strategist at [Tower Research Capital](https://
 
 ❕For highlights of previous news .. refer to the CV 
 
-*LMPodcast is AI generated and hence imperfect. I just like AI talking about my work! 
+*LMPodcast is AI generated and hence imperfect.It often makes incorrect statements about the claims / results in the paper.
