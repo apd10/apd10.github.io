@@ -19,7 +19,13 @@ In a previous life, I used to be strategist at [Tower Research Capital](https://
     Your browser does not support the audio element.
 </audio>
 
-🤜 Paper accepted at Neurips'24 : "Accelerating Inference with Fast and Expressive Sketch Structured Transform”. Congratulations to the team [Kimia Saedi](https://www.linkedin.com/in/kimia-saedi/), [Apoorv Walia](https://www.linkedin.com/in/apoorv-walia-788b66120/), [Keren Zhou](https://www.jokeren.tech/), [Jihyeong Li](https://www.linkedin.com/in/jihyeonglee98/) and [Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) Listen to the Google LMPodcast* for this paper here: 
+🤜 Paper accepted at Neurips'24 : "Accelerating Inference with Fast and Expressive Sketch Structured Transform”. Congratulations to the team [Kimia Saedi](https://www.linkedin.com/in/kimia-saedi/), [Apoorv Walia](https://www.linkedin.com/in/apoorv-walia-788b66120/), [Keren Zhou](https://www.jokeren.tech/), [Jihyeong Li](https://www.linkedin.com/in/jihyeonglee98/) and [Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) [Github Page](https://github.com/apd10/Sketch-Structured-Linear/blob/main/README.md)
+
+<p align="center" width="150">
+  <img src="https://github.com/user-attachments/assets/99d2cc7f-5697-4c1a-bcaf-b44e2fb7a2a4" />
+</p>
+
+Google LMPodcast: 
 <audio controls>
     <source src="files/ss1.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
