@@ -7,6 +7,10 @@ redirect_from:
 ---
 Full list of papers including preprints: [google scholar](https://scholar.google.com/citations?user=ymdbDZwAAAAJ&hl=en)
 
+*Desai, Aditya*, Gaurav Gupta, Tianyi Zhang, and Anshumali Shrivastava. "IDentity with Locality: An ideal hash for gene sequence search." arXiv preprint arXiv:2406.14901 (2024). [To Appear in KDD 2025]
+
+**Desai, Aditya** * , Kimia Saedi, Apoorv Walia, Jihyeong Lee, Keren Zhou, and Anshumali Shrivastava. "SS1: Accelerating Inference with Fast and Expressive Sketch Structured Transform." In The Thirty-eighth Annual Conference on Neural Information Processing Systems.
+
 **A. Desai** and A. Shrivastava, “In defense of parameter sharing for model compression,” in
 The Twelfth International Conference on Learning Representations, 2024.
 
