@@ -13,11 +13,15 @@ In a previous life, I used to be strategist at [Tower Research Capital](https://
 
 
 ## News
-🤜 Paper accepted at KDD'25 : "IDentity with Locality: An Ideal Hash for Gene Sequence Search”. Congratulations to the team [Gaurav Gupta](https://gaurav16gupta.github.io/), [Tianyi Zhang](https://www.linkedin.com/in/tianyi-zhang-441093135/) and [Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) Details coming soon! Heres the [arxiv](https://arxiv.org/abs/2406.14901) version.  Listen to the Google LMPodcast* for this paper here:
-<audio controls>
-    <source src="files/idl.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-</audio>
+🤜 Paper accepted at ICML'25 : "HashAttention: Semantic Sparsity for Faster Inference”. Congratulations to the team [Shuo Yang](https://www.linkedin.com/in/shuo-yang-79940b287/), [Alejandro Cuadron](https://www.linkedin.com/in/aclse/), [Matie Zaharia](https://www.linkedin.com/in/mateizaharia/), [Joeseph Gonzalez](https://www.linkedin.com/in/profjoeyg/) and [Ion Stoica](https://www.linkedin.com/in/ionstoica/) Details coming soon! Heres the [arxiv]() version.
+
+🤜 Paper accepted at ICML'25 : "Sketch to Adapt: Fine-Tunable Sketches for Efficient LLM Adaptation”. Congratulations to the team [Tianyi Zhang](https://www.linkedin.com/in/tianyi-zhang-441093135) (lead), [Junda Su]() (co-lead), [Oscar Wu](https://www.linkedin.com/in/oscarwu5/), [Zhaohuo Xu](https://ottovonxu.github.io/) and [Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) Details coming soon! Heres the [arxiv]() version.
+
+
+🤝Serving on Program committee for ICML 2025, Neurips 2025
+
+
+🤜 Paper accepted at KDD'25 : "IDentity with Locality: An Ideal Hash for Gene Sequence Search”. Congratulations to the team [Gaurav Gupta](https://gaurav16gupta.github.io/), [Tianyi Zhang](https://www.linkedin.com/in/tianyi-zhang-441093135/) and [Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) Details coming soon! Heres the [arxiv](https://arxiv.org/abs/2406.14901) version. 
 
 🤜 Paper accepted at Neurips'24 : "Accelerating Inference with Fast and Expressive Sketch Structured Transform”. Congratulations to the team [Kimia Saedi](https://www.linkedin.com/in/kimia-saedi/), [Apoorv Walia](https://www.linkedin.com/in/apoorv-walia-788b66120/), [Keren Zhou](https://www.jokeren.tech/), [Jihyeong Li](https://www.linkedin.com/in/jihyeonglee98/) and [Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) [Github Page](https://github.com/apd10/Sketch-Structured-Linear/blob/main/README.md)
 
@@ -25,11 +29,6 @@ In a previous life, I used to be strategist at [Tower Research Capital](https://
   <img src="https://github.com/user-attachments/assets/99d2cc7f-5697-4c1a-bcaf-b44e2fb7a2a4" />
 </p>
 
-Google LMPodcast: 
-<audio controls>
-    <source src="files/ss1.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-</audio>
 
 🤝Serving on Program committee for KDD August 2024, ICLR 2024, AISTATS 2025
 
