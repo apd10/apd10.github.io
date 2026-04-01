@@ -11,6 +11,15 @@ I am currently Assistant Professor at [CSE, IIT Bombay](https://www.cse.iitb.ac.
 
 In a previous life, I used to be strategist at [Tower Research Capital](https://tower-research.com/) where I spent quite some time after graduating from [IIT Kanpur](https://www.cse.iitk.ac.in/) in 2013. At IIT Kanpur, I was fortunate to work with Dr. [Subhajit Roy](https://www.cse.iitk.ac.in/users/subhajit/), Dr. [Mark Marron](https://software.imdea.org/~marron/) and Dr. [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) from Microsoft Research on Progamming Language research.
 
+## Note for Students
+I am looking for students to work on efficient AI research. 
+
+For CSE students from IIT Bombay. Drop by my office KR 208. You can mail in advance to ensure I am available. I have floated projects for SURP. So you may want to look at those if you want to work over the summer.  
+
+For prospective PG students, once you land at IIT Bombay, we can chat about projects. If you want to get involved before hand look at the note for non-IITB students.
+
+For non IIT Bombay students, look at [sky-light](https://github.com/skylight-org) which is were I host my research repositories. You can start with implementing some new model families inside sparse attention hub. See for example [Gemma Issue](https://github.com/skylight-org/sparse-attention-hub/issues/72), [Gemma PR](https://github.com/skylight-org/sparse-attention-hub/pull/76). Once you land a PR, get in touch with me. I would not be able to reply individually to all the student emails. Apologies in advance.
+
 
 ## News
 🤜 Paper accepted at ICLR'26 : "vAttention: Verified Sparse Attention via Sampling”. [paper link](https://iclr.cc/virtual/2026/poster/10006397)
@@ -35,13 +44,7 @@ In a previous life, I used to be strategist at [Tower Research Capital](https://
 
 🤜 Paper accepted at Neurips'24 : "Accelerating Inference with Fast and Expressive Sketch Structured Transform”. Congratulations to the team [Kimia Saedi](https://www.linkedin.com/in/kimia-saedi/), [Apoorv Walia](https://www.linkedin.com/in/apoorv-walia-788b66120/), [Keren Zhou](https://www.jokeren.tech/), [Jihyeong Li](https://www.linkedin.com/in/jihyeonglee98/) and [Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) [Github Page](https://github.com/apd10/Sketch-Structured-Linear/blob/main/README.md)
 
-<p align="center" width="150">
-  <img src="https://github.com/user-attachments/assets/99d2cc7f-5697-4c1a-bcaf-b44e2fb7a2a4" />
-</p>
-
 
 🤝Serving on Program committee for KDD August 2024, ICLR 2024, AISTATS 2025
 
 ❕For highlights of previous news .. refer to the CV 
-
-*LMPodcast is AI generated and hence imperfect.It often makes incorrect statements about the claims / results in the paper.
