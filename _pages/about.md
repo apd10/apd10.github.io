@@ -7,12 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am currently at post doctoral researcher at [sky-lab](https://sky.cs.berkeley.edu/) (previously called RISE), UC Berkeley with [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/), [Joey Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/) and [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/) working on efficient AI systems. Previously, I did my Ph.D. at Rice University advised by Dr. [Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) in 2024. Here is my [thesis](https://repository.rice.edu/items/47c844ea-4748-4751-8123-fd4182c635ee). 
+I am currently Assistant Professor at [CSE, IIT Bombay](https://www.cse.iitb.ac.in/). Until recently I was a post doctoral researcher at [sky-lab](https://sky.cs.berkeley.edu/) (previously called RISE), UC Berkeley with [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/), [Joey Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/) and [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/) working on efficient AI systems. Previously, I did my Ph.D. at Rice University advised by Dr. [Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) in 2024. Here is my [thesis](https://repository.rice.edu/items/47c844ea-4748-4751-8123-fd4182c635ee). 
 
 In a previous life, I used to be strategist at [Tower Research Capital](https://tower-research.com/) where I spent quite some time after graduating from [IIT Kanpur](https://www.cse.iitk.ac.in/) in 2013. At IIT Kanpur, I was fortunate to work with Dr. [Subhajit Roy](https://www.cse.iitk.ac.in/users/subhajit/), Dr. [Mark Marron](https://software.imdea.org/~marron/) and Dr. [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) from Microsoft Research on Progamming Language research.
 
 
 ## News
+🤜 Paper accepted at ICLR'26 : "vAttention: Verified Sparse Attention via Sampling”. [paper link](https://iclr.cc/virtual/2026/poster/10006397)
+
+🤜 Paper accepted at ICLR'26 : "vCache: Verified Semantic Prompt Caching”. [paper link](https://iclr.cc/virtual/2026/poster/10006471)
+
+⭐ Joined IIT Bombay as Assistant Professor
+
+❣️ Our public page on research is live : https://sky-light.eecs.berkeley.edu/
+
+🤝Serving on Program committee for ICML 2026, ICLR 2026
+
 🤜 Paper accepted at ICML'25 : "HashAttention: Semantic Sparsity for Faster Inference”. Congratulations to the team [Shuo Yang](https://www.linkedin.com/in/shuo-yang-79940b287/), [Alejandro Cuadron](https://www.linkedin.com/in/aclse/), [Matie Zaharia](https://www.linkedin.com/in/mateizaharia/), [Joeseph Gonzalez](https://www.linkedin.com/in/profjoeyg/) and [Ion Stoica](https://www.linkedin.com/in/ionstoica/) Details coming soon! Heres the [arxiv]() version.
 
 🤜 Paper accepted at ICML'25 : "Sketch to Adapt: Fine-Tunable Sketches for Efficient LLM Adaptation”. Congratulations to the team [Tianyi Zhang](https://www.linkedin.com/in/tianyi-zhang-441093135) (lead), [Junda Su]() (co-lead), [Oscar Wu](https://www.linkedin.com/in/oscarwu5/), [Zhaohuo Xu](https://ottovonxu.github.io/) and [Anshumali Shrivastava](https://www.cs.rice.edu/~as143/) Details coming soon! Heres the [arxiv]() version.
