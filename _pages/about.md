@@ -11,16 +11,20 @@ I am currently Assistant Professor at [CSE, IIT Bombay](https://www.cse.iitb.ac.
 
 In a previous life, I used to be strategist at [Tower Research Capital](https://tower-research.com/) where I spent quite some time after graduating from [IIT Kanpur](https://www.cse.iitk.ac.in/) in 2013. At IIT Kanpur, I was fortunate to work with Dr. [Subhajit Roy](https://www.cse.iitk.ac.in/users/subhajit/), Dr. [Mark Marron](https://software.imdea.org/~marron/) and Dr. [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) from Microsoft Research on Progamming Language research.
 
-## Note for Students
+## Note for Students who want to work with me
 I am looking for students to work on efficient AI research. 
 
 For CSE students from IIT Bombay. Drop by my office KR 208. You can mail in advance to ensure I am available. I have floated projects for SURP. So you may want to look at those if you want to work over the summer.  
 
 For prospective PG students, once you land at IIT Bombay, we can chat about projects. If you want to get involved before hand look at the note for non-IITB students.
 
-For non IIT Bombay students, look at [sky-light](https://github.com/skylight-org) which is were I host my research repositories. You can start with implementing some new model families inside sparse attention hub. See for example [Gemma Issue](https://github.com/skylight-org/sparse-attention-hub/issues/72), [Gemma PR](https://github.com/skylight-org/sparse-attention-hub/pull/76). Once you land a PR, get in touch with me. I would not be able to reply individually to all the student emails. Apologies in advance.
+For non IIT Bombay students, look at [sky-light](https://github.com/skylight-org) which is were I host my research repositories. You can start with implementing some new model families inside sparse attention hub. See for example [Gemma Issue](https://github.com/skylight-org/sparse-attention-hub/issues/72), [Gemma PR](https://github.com/skylight-org/sparse-attention-hub/pull/76). Once you land a PR, get in touch with me (schedule some time via calendly). I would not be able to reply individually to all the student emails. Apologies in advance.
 
 ## Want to meet?
+If you are student looking to work together follow the note above. 
+
+If you are potential industry / university collaborator or anyone (including students) for whom the above note is not applicable to the best of your judgement : 
+
 Use the following link to setup some time [calendly](https://calendly.com/apdesai-cse-iitb/30min)
 
 
