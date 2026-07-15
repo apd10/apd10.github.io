@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Aditya Desai"
 title_separator          : "-"
 name                     : &name "Aditya Desai"
-description              : &description "Post Doc at University of California, Berkeley"
+description              : &description "Assistant Professor, IIT Bombay"
 url                      : https://apd10.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "apd10/apd10.github.io"
@@ -25,10 +25,10 @@ author:
   name             : "Aditya Desai"
   pronouns         : # example: "she/her"  
   bio              : "Efficiency of AI and learning systems"
-  location         : "Berkeley, California"
-  employer         : "UC Berkeley"
+  location         : "Mumbai, India"
+  employer         : "IIT Bombay"
   uri              : # URL
-  email            : "apdesai@berkeley.edu" 
+  email            : "apdesai@cse.iitb.ac.in" 
 
   # Academic websites
   arxiv            : 
