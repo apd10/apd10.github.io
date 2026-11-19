@@ -6,7 +6,9 @@
 
 main:
 
-  
+  - title: "Lab website"
+    url: https://epsilon-prime.github.io/
+
   - title: "Publications"
     url: /publication/
   #  url: /publications/
